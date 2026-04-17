@@ -35,15 +35,25 @@ Custom variant bot dengan multi storage, command modular, dan behavior system.
 
 🎨 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />
+</p>⚙️ Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>💻 Languages
 
-<img src="https://skillicons.dev/icons?i=js,python,go" />🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,go" />
+</p>🗄️ Database
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />🖥️ System
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>🖥️ System
 
-<img src="https://skillicons.dev/icons?i=linux,git" />---
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git" />
+</p>---
 
 🔥 What I Do
 
