@@ -1,9 +1,5 @@
 <h1 align="center">⚡ bheghenkz ⚡</h1><p align="center">
   <b>Fullstack Developer • Automation Engineer • System Builder</b>
-</p><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Real+Systems;Automation+is+My+Game;Web+Apps+%2B+Backend;Always+Evolving+🚀&center=true&width=500&height=40">
-</p><p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bheghenkz&label=Profile%20Views&color=00ffcc&style=flat" />
 </p>---
 
 🧠 About Me
@@ -27,7 +23,7 @@ Sistem absensi berbasis web dengan dashboard, monitoring, dan manajemen data.
 
 🤖 LINE Automation Framework
 
-Framework selfbot berbasis LINE Web protocol dengan command system & automation.
+Framework automation berbasis LINE Web protocol dengan command system & automation.
 
 😄 linejs-smile
 
@@ -37,38 +33,33 @@ Custom variant bot dengan multi storage, command modular, dan behavior system.
 
 ⚙️ Tech Stack
 
-Frontend
-React • HTML • CSS • Tailwind
+🎨 Frontend
 
-Backend
-Node.js • Express • REST API
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind" />⚙️ Backend
 
-Languages
-JavaScript • Python • Golang
+<img src="https://skillicons.dev/icons?i=nodejs,express" />💻 Languages
 
-Database
-MySQL • MongoDB
+<img src="https://skillicons.dev/icons?i=js,python,go" />🗄️ Database
 
-System
-Linux • Git • VPS
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />🖥️ System
 
----
+<img src="https://skillicons.dev/icons?i=linux,git" />---
 
 🔥 What I Do
 
-- Membangun web app & dashboard system
-- Membuat automation tools & bot
-- Develop backend service & API
-- Create custom tools sesuai kebutuhan real
-- Eksperimen dengan web protocol & integration
+- 🌐 Membangun web app & dashboard system
+- 🤖 Membuat automation tools & bot
+- ⚙️ Develop backend service & API
+- 🧩 Create custom tools sesuai kebutuhan real
+- 🔍 Eksperimen dengan web protocol & integration
 
 ---
 
 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bheghenkz&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bheghenkz&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bheghenkz&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bheghenkz&theme=tokyonight" height="150"/>
 </p>---
 
 📫 Contact
