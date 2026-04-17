@@ -1,76 +1,93 @@
 <h1 align="center">⚡ bheghenkz ⚡</h1><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Fullstack+Developer;Automation+Engineer;System+Architect;Code+Build+Automate;Stay+Ahead+🚀&center=true&width=600&height=50">
+  <b>Fullstack Developer • Automation Engineer • System Builder</b>
+</p><p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Real+Systems;Automation+is+My+Game;Web+Apps+%2B+Backend;Always+Evolving+🚀&center=true&width=500&height=40">
 </p><p align="center">
   <img src="https://komarev.com/ghpvc/?username=bheghenkz&label=Profile%20Views&color=00ffcc&style=flat" />
 </p>---
 
-🧠 SYSTEM PROFILE
+🧠 About Me
 
-> Name      : bheghenkz
-> Role      : Fullstack Developer / Automation Engineer
-> Focus     : Web Apps • Backend Systems • Automation Tools
-> Status    : Active
+Saya developer yang fokus membangun system nyata yang bisa dipakai, bukan sekadar project iseng.
 
----
+Fokus utama:
 
-⚙️ TECH STACK
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,nodejs,python,go,react,html,css,tailwind,express,mysql,mongodb,linux,git" />
-</p>---
-
-🔥 CORE CAPABILITIES
-
-- 🌐 Building web applications & dashboards
-- ⚙️ Developing backend APIs & systems
-- 🤖 Creating automation tools & bots
-- 🧩 Designing modular command frameworks
-- 🔍 Reverse engineering web protocols & integrations
+- ⚙️ Backend & system architecture
+- 🌐 Web application (dashboard & tools)
+- 🤖 Automation & bot system
+- 🔍 Reverse engineering & custom integration
 
 ---
 
-🚀 PROJECT ZONE
+🚀 Featured Projects
 
-- 🧑‍💻 Web-based systems (Absensi, Dashboard, Admin Panel)
-- 🤖 Automation & bot frameworks
-- ⚙️ Custom backend services & APIs
-- 🧠 Experimental tools & integrations
+🧑‍💻 Web Absensi Pro
+
+Sistem absensi berbasis web dengan dashboard, monitoring, dan manajemen data.
+
+🤖 LINE Automation Framework
+
+Framework selfbot berbasis LINE Web protocol dengan command system & automation.
+
+😄 linejs-smile
+
+Custom variant bot dengan multi storage, command modular, dan behavior system.
 
 ---
 
-📊 SYSTEM STATS
+⚙️ Tech Stack
+
+Frontend
+React • HTML • CSS • Tailwind
+
+Backend
+Node.js • Express • REST API
+
+Languages
+JavaScript • Python • Golang
+
+Database
+MySQL • MongoDB
+
+System
+Linux • Git • VPS
+
+---
+
+🔥 What I Do
+
+- Membangun web app & dashboard system
+- Membuat automation tools & bot
+- Develop backend service & API
+- Create custom tools sesuai kebutuhan real
+- Eksperimen dengan web protocol & integration
+
+---
+
+📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bheghenkz&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bheghenkz&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bheghenkz&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bheghenkz&theme=tokyonight" height="160"/>
 </p>---
 
-📡 ACTIVITY STREAM
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bheghenkz&theme=tokyo-night" />
-</p>---
-
-📫 CONTACT CHANNEL
+📫 Contact
 
 <p align="center">
   <a href="mailto:fendysupratno@gmail.com">
-    <img src="https://img.shields.io/badge/email-ff0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="http://line.me/ti/p/~fensmilebots">
-    <img src="https://img.shields.io/badge/LINE-00ff00?style=for-the-badge&logo=line&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LINE-00C300?style=for-the-badge&logo=line&logoColor=white"/>
   </a>
 </p>---
 
-💬 SYSTEM PHILOSOPHY
+💬 Philosophy
 
-Build scalable systems.
-Automate everything.
-Break limitations.
-Stay ahead.
+«“Gue bikin system yang jalan, bukan cuma kelihatan jalan.” ⚡»
 
 ---
 
 <p align="center">
-⚡ Code • Build • Automate • Repeat ⚡
+⚡ Build Real Systems • Automate Everything ⚡
 </p>
